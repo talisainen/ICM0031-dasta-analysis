@@ -1,0 +1,78 @@
+Andmete kirjeldus failis uuring-2012.xlsx
+--------
+Sugu
+	1 - mees
+	2 - naine
+
+Vanusegrupp
+	99 - määramata
+
+Tper_seis
+	Tegelik perekonnaseis
+	1 - vallaline ja ei ole vabaabielus
+	2 - abielus ja elab koos abikaasaga
+	3 - vabaabielus
+	4 - lahutatud või lesk ja pole uuesti abiellunud/kooselus; abielus ja elab seaduslikust abikaasast lahus, pole uuesti abiellunud/kooselus
+	9 - määramata
+
+Rahvus
+	1 - eesti
+	2 - muu
+	9 - määramata
+
+Haridus - vastanud isiku haridus
+	1 I taseme haridus: alghariduseta, algharidusega, põhiharidusega, baashariduseta kutseharidus
+	2 II taseme haridus: keskharidus, kutseõpe põhihariduse baasil 
+	3 III taseme haridus: kutseõpe keskhariduse baasil, kõrgharidus, magister, doktor
+	9 määramata
+
+Sec	Enesehinnanguline sotsiaalmajanduslik seisund
+	11 töötav
+	20 töötu
+	31 õpilane, mittetasustatud praktikant
+	32 pensionär, eelpensionil, on oma äritegevusest tagasi tõmbunud; töövõimetuspensionär, ei tööta tervislikel põhjustel
+	34 muu mitteaktiivne
+	99 - määramata
+
+T_seis	Tööalane seisund	
+	1 palgatöötaja
+	2 muu
+	9 määramata
+
+T_tunde	töötatud tundide arv nädalas
+	1 kuni 20 tundi
+	2 21-39 tundi
+	3 40 tundi
+	4 41 ja enam tundi
+	9 määramata
+
+Lk_pk	Leibkonna elukoht piirkonna järgi
+	1 Põhja-Eesti
+	2 Kesk-Eesti
+	3 Kirde-Eesti
+	4 Lääne-Eesti
+	5 Lõuna-Eesti
+	9 määramata
+
+Hh_s1	Leibkonna liikmete arv
+	1  1 liige     
+	2  2 liiget     
+	5  5 või rohkem liiget  
+	9 määramata
+
+Kulutused leibkonna liikme kohta aastas	
+V01C	Väljaminekud
+V02C	.Tarbimiskulud
+V03C	..Toit ja mittealkohoolsed joogid
+V27C	...Alkohoolsed joogid ja tubakas
+V30C	...Riided ja jalanõud
+V34C	...Eluase
+V36C	...Majapidamiskulud
+V37C	...Tervishoid
+V38C	...Transport
+V41C	...Side
+V42C	...Vaba aeg
+V45C	...Haridus
+V46C	...Hotellid, kohvikud, restoranid
+V49C	...Mitmesugused kaubad ja teenused
+V50C	.Muud kulutused
